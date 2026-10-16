@@ -10,3 +10,6 @@ INTRIVIA menjadi pengalaman pertama saya mengenal kehidupan perkuliahan secara u
 
 ## Kesan Pesan Cluster 10 Sejauh Ini
 Cluster 10 memberi saya kesempatan untuk berkenalan dan bekerja sama dengan teman-teman dari latar belakang yang berbeda. Kekompakan dan dukungan yang terjalin membuat setiap kegiatan terasa ringan dan berkesan. Pesan saya, mari terus jaga kebersamaan dan semangat ini sampai akhir perjalanan kuliah.
+
+## Harapan Kuliah
+Selama menempuh kuliah di Teknik Informatika, saya berharap bisa belajar dengan sungguh-sungguh, mengasah kemampuan di bidang teknologi, aktif dalam kegiatan yang bermanfaat, serta lulus tepat waktu dengan hasil yang membanggakan dan dapat berkontribusi bagi banyak orang.
